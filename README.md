@@ -2,7 +2,7 @@ Create Virtual Env and Install the requirements:
 
 ```bash
 cd django-schools
-python3 -m venv env
+python -m venv env
 source ./env/bin/activate
 pip install -r requirements.txt
 ```
